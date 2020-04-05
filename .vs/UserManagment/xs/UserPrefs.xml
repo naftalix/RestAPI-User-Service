@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{41571D58-F4DA-41B1-ACA1-6BB8D03C4184}|Default">
+  <MonoDevelop.Ide.ItemProperties.UserManagment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/Context/UserManagmentContext.cs">
+    <Files>
+      <File FileName="Infrastructure/Extentions.cs" Line="69" Column="1" />
+      <File FileName="Controllers/FilesController.cs" Line="62" Column="40" />
+      <File FileName="Startup.cs" Line="47" Column="1" />
+      <File FileName="Controllers/UsersController.cs" Line="62" Column="14" />
+      <File FileName="Services/DefaultFileService.cs" />
+      <File FileName="Infrastructure/FileHelper.cs" />
+      <File FileName="Persistence/Repositories/FileRepository.cs" />
+      <File FileName="Persistence/Context/UserManagmentContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserManagment" expanded="True">
+            <Node name="UserManagment" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Mapping" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Persistence" expanded="True">
+                <Node name="Context" expanded="True">
+                  <Node name="UserManagmentContext.cs" selected="True" />
+                </Node>
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
