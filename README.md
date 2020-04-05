@@ -1,3 +1,2 @@
 # RestAPI-User-Service
-RestAPI .NetCore handling users with files
-Currently still on work
+RestAPI .NetCore handling users with files currently still on work
