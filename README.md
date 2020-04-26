@@ -1,4 +1,5 @@
 # RestAPI User Service
 
 * Example Implementation of a RestAPI .NetCore handling users with files 
-* Currently still on work...
+* Each user uploading file on behalf his name
+* Will be added indexing by MongoDB later
